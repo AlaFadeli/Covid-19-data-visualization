@@ -6,7 +6,7 @@ This repository contains a Python script that generates a bar chart visualizing 
 
 ## Chart
 
-![](plot.png)
+![Top 10 Total COVID-19 Cases by Country](plot_styled_updated.png)
 
 
 
