@@ -3,7 +3,14 @@
 ## Overview
 
 This repository contains a Python script that generates a bar chart visualizing the total number of COVID-19 cases reported by the top 10 countries with the highest case counts. The chart helps in understanding the global impact of the pandemic and provides a clear comparison of case counts across different countries.
-![chart](plot_styled_updated.png)
+
+## Chart
+
+![](plot.png)
+
+
+
+
 ## Chart Description
 
 ### Title:
@@ -30,5 +37,5 @@ The chart represents the total number of COVID-19 cases for the following countr
 - **European Impact**: France and Germany have high case counts, emphasizing the substantial burden in Western Europe.
 - **Brazil**: Brazil’s 38.7 million cases show a similar impact to Germany and France, indicating severe effects in South America.
 - **Other Countries**: South Korea, Japan, Italy, the UK, and Russia each report significant case numbers, underlining the global reach of COVID-19.
-
+--
 
