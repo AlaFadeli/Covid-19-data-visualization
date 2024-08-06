@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a Python script that generates a bar chart visualizing the total number of COVID-19 cases reported by the top 10 countries with the highest case counts. The chart helps in understanding the global impact of the pandemic and provides a clear comparison of case counts across different countries.
-
+![chart](plot_styled_updated.png)
 ## Chart Description
 
 ### Title:
