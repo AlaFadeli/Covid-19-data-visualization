@@ -112,9 +112,4 @@ Certainly! Here’s an overview of key data and trends related to the economic i
    - **Small Businesses**: Many small and medium-sized enterprises (SMEs) faced closures or significant financial distress.
    - **Large Corporations**: Some large companies also experienced financial difficulties, leading to layoffs and restructuring.
 
-For the most up-to-date and detailed data, you can refer to:
-- **International Monetary Fund (IMF)**: Reports and forecasts on global economic performance.
-- **World Bank**: Economic impact reports and data.
-- **National Statistics Agencies**: For specific country data.
-- **World Trade Organization (WTO)**: Trade and economic impact data.
 
