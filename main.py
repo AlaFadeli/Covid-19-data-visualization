@@ -1,4 +1,6 @@
 
+
+import pandas as pd
 from matplotlib import pyplot as plt
 from matplotlib.ticker import FuncFormatter
 import seaborn as sns
@@ -46,6 +48,11 @@ plt.yticks(fontsize=12)
 # Add gridlines for y-axis for better readability
 ax.yaxis.grid(True, linestyle='--', alpha=0.7, linewidth=0.7)
 
+# Add data labels on bars
+for bar in bars:
+    yval = bar.get_height()
+    ax.text(bar.get_x() + bar.get_width()/2, yval, f'{yval * 1e-6:.1f}M', ha='center', va='bottom', fontsize=10, color='black', weight='bold')
+
 # Add a background color
 ax.set_facecolor('#f5f5f5')
 
@@ -58,3 +65,8 @@ plt.savefig('plot_styled_updated.png')
 # Display the plot
 plt.show()
 
+# DataFrame csv file :
+
+df = pd.read_csv("country_wise_latest.csv")
+
+print(df)
