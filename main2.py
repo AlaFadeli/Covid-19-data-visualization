@@ -43,7 +43,7 @@ def millions_formatter(x, pos):
 ax.yaxis.set_major_formatter(FuncFormatter(millions_formatter))
 
 # Customization
-plt.title("Top 10 Countries by Deaths", fontsize=18, fontweight='bold', pad=20)
+plt.title("Top 10 Countries by Covid Deaths", fontsize=18, fontweight='bold', pad=20)
 plt.xlabel("Country", fontsize=14, fontweight='bold', labelpad=15)
 plt.ylabel("Cases", fontsize=14, fontweight='bold', labelpad=15)
 plt.xticks(rotation=45, ha='right', fontsize=12)
