@@ -64,4 +64,11 @@ The data is sourced from publicly available COVID-19 tracking systems and health
 - The numbers are rounded to the nearest thousand.
 - The data may be subject to change as new information becomes available and as reports are updated.
 
-For further details and updates, please check the csv file .  
+  
+## Data File
+
+The data used in this project is available as a CSV file. You can download it using the following link:
+
+[Download CSV File](https://github.com/AlaFadeli/Covid-19-data-visualization/blob/master/country_wise_latest.csv)
+
+**Note**: Replace `username`, `repository`, `branch`, and `path/to/your/file.csv` with your actual GitHub username, repository name, branch name (usually `main` or `master`), and the path to the CSV file in your repository.
