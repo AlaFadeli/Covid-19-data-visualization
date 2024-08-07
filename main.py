@@ -19,6 +19,7 @@ c19_cases_by_country = {
     "Russia": 24124215
 }
 
+
 # Plot
 categories = list(c19_cases_by_country.keys())
 values = list(c19_cases_by_country.values())
