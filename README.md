@@ -91,6 +91,9 @@ Certainly! Here’s an overview of key data and trends related to the economic i
    - **2021**: Gradual improvement, but still elevated compared to pre-pandemic levels. For example, the U.S. unemployment rate was around 6.0% in March 2021.
    - **Current Trends**: Varies by region, with ongoing issues in some sectors and areas.
 
+![](unemployment_rate_line_chart.png)
+
+
 3. **Government Stimulus and Support**
    - **U.S. Stimulus Packages**: The U.S. government enacted several relief packages totaling over $5 trillion, including direct payments to individuals, enhanced unemployment benefits, and support for businesses.
    - **Global Response**: Many countries implemented similar measures, with varying levels of fiscal support.
