@@ -71,4 +71,4 @@ The data used in this project is available as a CSV file. You can download it us
 
 [Download CSV File](https://github.com/AlaFadeli/Covid-19-data-visualization/blob/master/country_wise_latest.csv)
 
-**Note**: Replace `username`, `repository`, `branch`, and `path/to/your/file.csv` with your actual GitHub username, repository name, branch name (usually `main` or `master`), and the path to the CSV file in your repository.
+
