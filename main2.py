@@ -66,7 +66,7 @@ plt.savefig('second_plot.png')
 
 # Display
 plt.show()
-plt.savefig('second_plot.png')
+plt.savefig('plot.png')
 
 # Display
 plt.show()
