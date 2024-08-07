@@ -38,39 +38,30 @@ The chart represents the total number of COVID-19 cases for the following countr
 - **Brazil**: Brazil’s 38.7 million cases show a similar impact to Germany and France, indicating severe effects in South America.
 - **Other Countries**: South Korea, Japan, Italy, the UK, and Russia each report significant case numbers, underlining the global reach of COVID-19.
 --
-# COVID-19 Deaths Analysis
+## COVID-19 Deaths by Country
 
-This document analyzes the COVID-19 death statistics for the top 10 countries with the highest reported fatalities. The analysis aims to provide insights into the pandemic's global impact.
-## Chart : 
-![Top 10 Countries by Deaths](second_plot.png)
+This table presents data on the number of COVID-19 deaths for the top 10 countries with the highest death tolls. The data is based on reported figures and provides a snapshot of the impact of the pandemic globally. 
 
-## Analysis
+| **Country**       | **Deaths** |
+|-------------------|------------|
+| United States     | 1,173,000  |
+| Brazil            | 735,000    |
+| India             | 530,000    |
+| Mexico            | 340,000    |
+| Russia            | 330,000    |
+| Peru              | 280,000    |
+| Indonesia         | 270,000    |
+| Turkey            | 260,000    |
+| Italy             | 240,000    |
+| United Kingdom    | 230,000    |
 
-1. **Total Deaths and Distribution**
-   - The **United States** has the highest number of COVID-19 deaths, reflecting a severe impact. This is a significant indicator of the pandemic's toll in this region.
-   - **Brazil**, **India**, and **Mexico** follow with considerable death tolls, highlighting the severe challenges faced by these large and densely populated countries.
+### Data Source
 
-2. **Healthcare and Population Factors**
-   - Countries with high death counts often experience challenges related to healthcare infrastructure and population density. For example, **India** and **Brazil** have faced considerable healthcare challenges which likely contribute to their high number of deaths.
+The data is sourced from publicly available COVID-19 tracking systems and health reports. This table is meant to provide an overview of the relative scale of deaths across different countries.
 
-3. **Socioeconomic and Geopolitical Influences**
-   - The disparity in death counts can be influenced by socioeconomic conditions and the effectiveness of public health systems. For instance, **Mexico** and **Peru** have higher death rates, partly due to economic and healthcare system strains.
+### Notes
 
-4. **Timing and Response**
-   - The timing of the pandemic's peak can affect death counts significantly. Early surges in the **United States** and later peaks in countries like **Turkey** demonstrate how the timing of outbreaks influences overall statistics.
+- The numbers are rounded to the nearest thousand.
+- The data may be subject to change as new information becomes available and as reports are updated.
 
-5. **Public Health Measures**
-   - Variations in public health responses, including the rollout of vaccinations and adherence to health guidelines, contribute to differences in death rates. Countries with slower vaccination efforts or less stringent public health measures tend to have higher fatality numbers.
-
-6. **Per Capita Analysis**
-   - Analyzing deaths on a per capita basis provides additional context. For instance, **Peru** has a notably high death rate relative to its population, indicating a severe impact on a per-person basis compared to other countries.
-
-7. **Future Trends**
-   - Monitoring these statistics over time can offer insights into the progression of the pandemic and the effectiveness of different interventions. Tracking changes in death counts can help in understanding ongoing challenges and the success of public health responses.
-
-## Conclusion
-
-The top 10 countries by COVID-19 deaths illustrate the diverse impact of the pandemic across different regions. Factors such as healthcare infrastructure, socioeconomic conditions, and the effectiveness of public health measures play critical roles in shaping these statistics. 
-
-For the latest statistics and more detailed
-
+For further details and updates, please check the csv file .  
