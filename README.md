@@ -73,7 +73,7 @@ The data used in this project is available as a CSV file. You can download it us
 
 [Download CSV File](https://github.com/AlaFadeli/Covid-19-data-visualization/blob/master/country_wise_latest.csv)
 
-Certainly! Here’s an overview of key data and trends related to the economic impacts of COVID-19. Note that specific numbers can vary depending on the source and time period, so it’s always good to refer to the latest reports from reliable sources.
+
 
 ### **Global Economic Impact**
 
