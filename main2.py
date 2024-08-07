@@ -4,7 +4,7 @@ from matplotlib.ticker import FuncFormatter
 import seaborn as sns
 
 # Apply a seaborn style
-sns.set(style="whitegrid")
+sns.set(style="white")
 
 # Data
 
