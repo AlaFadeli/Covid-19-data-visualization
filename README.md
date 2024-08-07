@@ -94,23 +94,21 @@ Certainly! Here’s an overview of key data and trends related to the economic i
 ![](unemployment_rate_line_chart.png)
 
 
-3. **Government Stimulus and Support**
-   - **U.S. Stimulus Packages**: The U.S. government enacted several relief packages totaling over $5 trillion, including direct payments to individuals, enhanced unemployment benefits, and support for businesses.
-   - **Global Response**: Many countries implemented similar measures, with varying levels of fiscal support.
 
-4. **Sectoral Impacts**
+
+3. **Sectoral Impacts**
    - **Travel and Tourism**: Severe contraction, with global international tourist arrivals dropping by around 74% in 2020 according to the UN World Tourism Organization.
    - **Retail and Hospitality**: Significant downturn in sectors dependent on physical presence, though recovery has been mixed and varies by region.
    - **Technology and E-commerce**: Surge in demand for digital services, with e-commerce growing substantially. For instance, global e-commerce sales grew by 27.6% in 2020.
 
-5. **Supply Chain Disruptions**
+4. **Supply Chain Disruptions**
    - **Shortages and Inflation**: Disruptions led to shortages of goods and raw materials, contributing to inflationary pressures. The IMF reported rising inflation rates in many countries as a result.
 
-6. **Debt Levels**
+5. **Debt Levels**
    - **Government Debt**: Increased substantially as governments took on more debt to fund stimulus measures. For instance, global public debt rose to about 98% of GDP in 2021 according to the IMF.
    - **Corporate Debt**: Increased in some sectors due to borrowing for survival during downturns.
 
-7. **Business Closures and Bankruptcies**
+6. **Business Closures and Bankruptcies**
    - **Small Businesses**: Many small and medium-sized enterprises (SMEs) faced closures or significant financial distress.
    - **Large Corporations**: Some large companies also experienced financial difficulties, leading to layoffs and restructuring.
 
