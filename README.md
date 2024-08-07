@@ -82,6 +82,10 @@ Certainly! Here’s an overview of key data and trends related to the economic i
    - **2021**: A strong rebound with a growth rate of around 6.0%, as per IMF estimates.
    - **2022 and Beyond**: Recovery has continued but at a slower pace, with challenges including inflation and supply chain disruptions.
 
+![](global_gdp_line_chart.png)
+
+
+
 2. **Unemployment Rates**
    - **2020**: Unemployment rates surged globally. In the U.S., the unemployment rate peaked at 14.8% in April 2020.
    - **2021**: Gradual improvement, but still elevated compared to pre-pandemic levels. For example, the U.S. unemployment rate was around 6.0% in March 2021.
