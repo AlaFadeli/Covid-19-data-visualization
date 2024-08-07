@@ -1,4 +1,3 @@
-
 from matplotlib import pyplot as plt
 from matplotlib.ticker import FuncFormatter
 import seaborn as sns
@@ -7,7 +6,6 @@ import seaborn as sns
 sns.set(style="whitegrid")
 
 # Data
-
 top_10_countries_by_deaths = {
     "United States": 1173000,
     "Brazil": 735000,
@@ -33,7 +31,7 @@ bars = ax.bar(categories, values, color=sns.color_palette("viridis", len(categor
 # Add value labels on top of bars
 for bar in bars:
     yval = bar.get_height()
-    ax.text(bar.get_x() + bar.get_width()/2, yval + 1e7, f'{yval * 1e-6:.1f}M', ha='center', va='bottom', fontsize=10, color='black', weight='bold')
+    ax.text(bar.get_x() + bar.get_width() / 2, yval + 1e5, f'{yval * 1e-6:.1f}M', ha='center', va='bottom', fontsize=10, color='black', weight='bold')
 
 def millions_formatter(x, pos):
     """Formatter function to display y-axis values in millions."""
@@ -43,7 +41,7 @@ def millions_formatter(x, pos):
 ax.yaxis.set_major_formatter(FuncFormatter(millions_formatter))
 
 # Customization
-plt.title("Top 10 Countries by Covid Deaths", fontsize=18, fontweight='bold', pad=20)
+plt.title("Top 10 Countries by Covid Deaths", fontsize=18, fontweight='bold', pad=20, backgroundcolor='#e0e0e0')
 plt.xlabel("Country", fontsize=14, fontweight='bold', labelpad=15)
 plt.ylabel("Deaths", fontsize=14, fontweight='bold', labelpad=15)
 plt.xticks(rotation=45, ha='right', fontsize=12)
@@ -55,9 +53,6 @@ ax.yaxis.grid(True, linestyle='--', alpha=0.7, linewidth=0.7)
 # Add a background color
 ax.set_facecolor('#f5f5f5')
 
-# Add a title background
-plt.title("Top 10 Countries by Deaths", fontsize=18, fontweight='bold', backgroundcolor='#e0e0e0')
-
 # Improve layout
 plt.tight_layout()
 
@@ -67,5 +62,3 @@ plt.savefig('second_plot.png')
 # Display
 plt.show()
 
-# Display
-plt.show()
