@@ -75,9 +75,9 @@ The data used in this project is available as a CSV file. You can download it us
 
 
 
-# **Global Economic Impact**
+# Global Economic Impacts
 
-1. **Global GDP**
+## **Global GDP**
    - **2020**: The global economy contracted by approximately 3.5% according to the International Monetary Fund (IMF).
    - **2021**: A strong rebound with a growth rate of around 6.0%, as per IMF estimates.
    - **2022 and Beyond**: Recovery has continued but at a slower pace, with challenges including inflation and supply chain disruptions.
@@ -86,7 +86,7 @@ The data used in this project is available as a CSV file. You can download it us
 
 
 
-2. **Unemployment Rates**
+## **Unemployment Rates**
    - **2020**: Unemployment rates surged globally. In the U.S., the unemployment rate peaked at 14.8% in April 2020.
    - **2021**: Gradual improvement, but still elevated compared to pre-pandemic levels. For example, the U.S. unemployment rate was around 6.0% in March 2021.
    - **Current Trends**: Varies by region, with ongoing issues in some sectors and areas.
@@ -96,19 +96,19 @@ The data used in this project is available as a CSV file. You can download it us
 
 
 
-3. **Sectoral Impacts**
+## **Sectoral Impacts**
    - **Travel and Tourism**: Severe contraction, with global international tourist arrivals dropping by around 74% in 2020 according to the UN World Tourism Organization.
    - **Retail and Hospitality**: Significant downturn in sectors dependent on physical presence, though recovery has been mixed and varies by region.
    - **Technology and E-commerce**: Surge in demand for digital services, with e-commerce growing substantially. For instance, global e-commerce sales grew by 27.6% in 2020.
 
-4. **Supply Chain Disruptions**
+## **Supply Chain Disruptions**
    - **Shortages and Inflation**: Disruptions led to shortages of goods and raw materials, contributing to inflationary pressures. The IMF reported rising inflation rates in many countries as a result.
 
-5. **Debt Levels**
+## **Debt Levels**
    - **Government Debt**: Increased substantially as governments took on more debt to fund stimulus measures. For instance, global public debt rose to about 98% of GDP in 2021 according to the IMF.
    - **Corporate Debt**: Increased in some sectors due to borrowing for survival during downturns.
 
-6. **Business Closures and Bankruptcies**
+## **Business Closures and Bankruptcies**
    - **Small Businesses**: Many small and medium-sized enterprises (SMEs) faced closures or significant financial distress.
    - **Large Corporations**: Some large companies also experienced financial difficulties, leading to layoffs and restructuring.
 
