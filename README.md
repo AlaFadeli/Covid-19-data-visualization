@@ -75,7 +75,7 @@ The data used in this project is available as a CSV file. You can download it us
 
 
 
-## **Global Economic Impact**
+# **Global Economic Impact**
 
 1. **Global GDP**
    - **2020**: The global economy contracted by approximately 3.5% according to the International Monetary Fund (IMF).
